@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **robertberes06@gmail.com**
 
-- 💻 My website **robertberes.com**
+- 💻 My website **<a href="https://robertberes.com">robertberes.com</a>**
 
 </td>
 <td width="50%" align="center">
