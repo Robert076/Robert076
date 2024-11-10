@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 Currently learning **GO**
+- 🌱 Currently learning **Java**
 
 - 🧑‍🎓 Pursuing my bachelor's **Babes-Bolyai University**
 
