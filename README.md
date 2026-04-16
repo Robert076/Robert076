@@ -1,1 +1,1 @@
-> "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." 
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/87abb9c3-8206-44c3-b1db-fe7a319d7628" />
